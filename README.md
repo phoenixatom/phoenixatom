@@ -18,10 +18,10 @@
 ### 📕 Latest rants and wisdom
 
 <!-- BLOG-POST-LIST:START -->
+- [Year in a Post (2020)](https://blog.aruham.dev/year-in-a-post-2020/)
 - [For Loop to List Comprehension](https://blog.aruham.dev/for-loop-or-list-comprehension/)
 - [Web Scraping 101 with BS4](https://blog.aruham.dev/web-scraping-101-with-bs4/)
 - [Growth](https://blog.aruham.dev/growth/)
-- [Twenty Twenty](https://blog.aruham.dev/2020/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
