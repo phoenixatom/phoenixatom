@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Linux and Telegram**
 
-- 📫 You can reach me via **aruham@baivaru.net**
+- 📫 You can reach me via **github@aruham.dev**
 
 - ⚡ You should check out [Dhivatars](https://github.com/phoenixatom/dhivatars)
 
