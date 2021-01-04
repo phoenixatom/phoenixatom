@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Aruham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mohamed Aruham</h1>
 <h3 align="center">A backend developer and wannabe system administrator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixatom&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixatom" /> </p>
