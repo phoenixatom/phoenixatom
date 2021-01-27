@@ -24,7 +24,7 @@
 - [Growth](https://blog.aruham.dev/growth/)
 <!-- BLOG-POST-LIST:END -->
 
-### 🎶 Currently Playing
+### 🎶 Listen with me
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9zrk84889nvcz187zcdwb903y&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=9zrk84889nvcz187zcdwb903y&redirect=true)
 
 <h3 align="left">Connect with me:</h3>
