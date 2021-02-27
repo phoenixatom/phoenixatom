@@ -5,7 +5,7 @@
 
 - 💸 I’m currently working on **PyBML**
 
-- 🌱 I’m currently learning **Django and Celery**
+- 🌱 I’m currently learning **Go**
 
 - 📝 I sometimes write articles on [https://blog.aruham.dev](https://blog.aruham.dev)
 
