@@ -18,10 +18,10 @@
 ### 📕 Latest rants and wisdom
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement Health Check Middleware on Asp.NET Core 3.1 Web App](https://blog.aruham.dev/health-check-middleware-on-asp-net-core/)
 - [Why Django?](https://blog.aruham.dev/why-django/)
 - [Year in a Post (2020)](https://blog.aruham.dev/year-in-a-post-2020/)
 - [For Loop to List Comprehension](https://blog.aruham.dev/for-loop-or-list-comprehension/)
-- [Web Scraping 101 with BS4](https://blog.aruham.dev/web-scraping-101-with-bs4/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎶 Listen with me
