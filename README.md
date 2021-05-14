@@ -9,7 +9,7 @@
 
 - 📝 I sometimes write articles on [https://blog.aruham.dev](https://blog.aruham.dev)
 
-- 💬 Ask me about **Python, Linux and Telegram**
+- 💬 Ask me about **Python, Linux, Telegram and ASP.NET Core**
 
 - 📫 You can reach me via **github@aruham.dev**
 
