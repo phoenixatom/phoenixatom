@@ -18,10 +18,10 @@
 ### 📕 Latest rants and wisdom
 
 <!-- BLOG-POST-LIST:START -->
+- [A Brython Countdown Timer](https://blog.aruham.dev/brython-countdown-timer/)
 - [Rihaakuru Scrambled Eggs](https://blog.aruham.dev/rihaakuru-scrambled-eggs/)
 - [How to avoid Phishing Attacks](https://blog.aruham.dev/how-to-avoid-phishing-attacks/)
 - [Implement Health Check Middleware on Asp.NET Core 3.1 Web App](https://blog.aruham.dev/health-check-middleware-on-asp-net-core/)
-- [Why Django?](https://blog.aruham.dev/why-django/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎶 Listen with me
