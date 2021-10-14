@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixatom&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixatom" /> </p>
 
-- 💸 I’m currently working on **JCIMV Portal**
+- 💸 I’m currently working on **JCIMV Portal and AdduJobs**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **AWS Cloud Services**
 
 - 📝 I sometimes write articles on [https://blog.aruham.dev](https://blog.aruham.dev)
 
