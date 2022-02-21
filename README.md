@@ -15,6 +15,9 @@
 
 - ⚡ You should check out [Dhivatars](https://github.com/phoenixatom/dhivatars)
 
+![Metrics](https://metrics.lecoq.io/phoenixatom?template=terminal&base.header=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FSingapore)
+
+
 ### 📕 Latest rants and wisdom
 
 <!-- BLOG-POST-LIST:START -->
