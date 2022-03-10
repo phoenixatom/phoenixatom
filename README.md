@@ -21,10 +21,10 @@
 ### 📕 Latest rants and wisdom
 
 <!-- BLOG-POST-LIST:START -->
+- [How I hacked myself](https://blog.aruham.dev/how-i-hacked-myself/)
+- [Seeding roles and admin user in ASP.NET Core](https://blog.aruham.dev/aspdotnet-user-roles-seeder/)
+- [Year in a Post &lpar;2021&rpar;](https://blog.aruham.dev/year-in-a-post-2021/)
 - [Cyber Security - An Introduction](https://blog.aruham.dev/cyber-security-1/)
-- [A Brython Countdown Timer](https://blog.aruham.dev/brython-countdown-timer/)
-- [Rihaakuru Scrambled Eggs](https://blog.aruham.dev/rihaakuru-scrambled-eggs/)
-- [How to avoid Phishing Attacks](https://blog.aruham.dev/how-to-avoid-phishing-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎶 Listen with me
