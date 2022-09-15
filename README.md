@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aruham</h1>
-<h3 align="center">A backend developer and wannabe system administrator</h3>
+<h3 align="center">A security enthusiast and software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixatom&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixatom" /> </p>
 
-- 💸 I’m currently working on **JCIMV Portal and AdduJobs**
+- 💸 I’m currently working on **Admin Panels**
 
 - 🌱 I’m currently learning **AWS Cloud Services**
 
