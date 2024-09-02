@@ -21,10 +21,10 @@
 ### 📕 Latest rants and wisdom
 
 <!-- BLOG-POST-LIST:START -->
+- [Slugging some URLs](https://blog.aruham.dev/slugging-some-urls/)
 - [When Alarm?](https://blog.aruham.dev/when-alarm/)
 - [How I hacked myself](https://blog.aruham.dev/how-i-hacked-myself/)
 - [Seeding roles and admin user in ASP.NET Core](https://blog.aruham.dev/aspdotnet-user-roles-seeder/)
-- [Year in a Post &lpar;2021&rpar;](https://blog.aruham.dev/year-in-a-post-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎶 Listen with me
