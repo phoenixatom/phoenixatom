@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixatom&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixatom" /> </p>
 
-- 💸 I’m currently working on **EmuniSemuni**
+- 💸 I’m currently working on **BasGolhi** - Wordle but in Dhivehi
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Unity**
 
 - 📝 I sometimes write articles on [https://blog.aruham.dev](https://blog.aruham.dev)
 
-- 💬 Ask me about **Python, ASP.NET Core, NextJS, Telegram Bots and more!**
+- 💬 Ask me about **Python, ASP .NET, NextJS, Flutter, Telegram Bots and more!**
 
 - 📫 You can reach me via **github@aruham.dev**
 
